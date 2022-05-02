@@ -6,3 +6,4 @@ Alexis Antonio Arano Castañeda 18350291
 '''
 
 print("Hola mundo")
+print("Somos el equipo 10")
